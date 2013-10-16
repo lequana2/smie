@@ -92,7 +92,7 @@ public class Dummy {
 
 			// TODO user index
 			User user = new User();
-			user.setName("Lê Quân");
+			user.setName("Lï¿½ Quï¿½n");
 			user.setYear(1991);
 			user.setHeight(165);
 			user.setWeight(72);
